@@ -1,0 +1,23 @@
+npx create-react-app paynrent
+npm install multer
+npm install react-router-dom --force
+npm install uuid
+npm install mui
+npm install axios
+npm install sweetalert2
+npm install fs       (file system)
+npm install i dayjs
+npm install @mui/x-date-pickers@5.0.20 --force  (for old version)
+npm install date-diff
+npm install react-slick --save
+npm install slick-carousel
+
+
+npx create-react-app reactreduxbatch89
+npm i redux
+npm i react-redux
+npm i react-router-dom
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material
+npm i @material-table/core@5.0.4  (if we want to install latest version then we put latest in front of 5.0.4)
